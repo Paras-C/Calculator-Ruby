@@ -64,3 +64,21 @@ end
   end
     
 end
+
+
+
+#Trip Calc
+
+# def trip_calc
+#   print "distance: "
+#   distance = gets.to_f
+#   print "mpg: "
+#   mpg = gets.to_f
+#   print "fuel price per gallon: "
+#   cost = gets.to_f
+#   print "speed: "
+#   speed = gets.to_f
+#   mpg = mpg_utility(speed, mpg)
+#   puts "It will take you #{distance/speed} hours at a cost of $#{(distance/mpg)*cost}"
+#   gets
+# end
